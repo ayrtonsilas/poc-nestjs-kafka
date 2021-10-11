@@ -1,1 +1,0 @@
-{"version":3,"file":"microserviceConfig.js","sourceRoot":"","sources":["../../src/configs/microserviceConfig.ts"],"names":[],"mappings":";;;AAAA,yDAAgE;AAEnD,QAAA,kBAAkB,GAAiB;IAC9C,SAAS,EAAE,yBAAS,CAAC,KAAK;IAE1B,OAAO,EAAE;QACP,MAAM,EAAE;YACN,OAAO,EAAE,CAAC,aAAa,CAAC;SACzB;QACD,QAAQ,EAAE;YACR,OAAO,EAAE,GAAG;YACZ,sBAAsB,EAAE,IAAI;SAC7B;KACF;CACF,CAAC"}
